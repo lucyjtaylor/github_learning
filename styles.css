@@ -6,4 +6,6 @@ h2 {
   font-size: 50px;
   background: blue;
   text-align: right;
+  margin: 50 0 0 0px;
+  text-transform: capitalize;
 }
